@@ -10,6 +10,7 @@ Visit [docs](https://github.com/19DennisBrown/dennis-journal/edit/main/README.md
 ```bash
 git clone https://github.com/19DennisBrown/dennis-journal.git
 cd dennis-journal
+```
 
 ## Features
 - ** Real-time**:- Updates
